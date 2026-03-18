@@ -39,6 +39,9 @@ Linear(512 → n_actions)   [Q-values]
 
 ~17 mean episode reward after 5M frames on Breakout. The original paper reports ~168 after 200M frames — the gap is expected given the reduced training budget.
 
+<img width="1112" height="236" alt="plot_frame5000000" src="https://github.com/user-attachments/assets/65e61614-96a4-46ea-92ac-d2282a9513cc" />
+
+
 ## Setup
 
 ```bash
